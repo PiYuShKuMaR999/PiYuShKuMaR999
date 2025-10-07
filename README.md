@@ -63,7 +63,7 @@
 ---
 
 ### 🌟 Featured Projects
-- **[Project 1](https://github.com/PiYuShKuMaR999/project1)** - Short description
+- **[Resume_Analyzerr](https://github.com/PiYuShKuMaR999/Resume_Analyzerr)** - React-based AI-powered resume analyzer that evaluates resumes in real-time. It provides insights on structure, content, keywords, and relevance to improve chances with recruiters and ATS systems. The tool aims to help users optimize their resumes for specific job applications efficiently.
 - **[Project 2](https://github.com/PiYuShKuMaR999/project2)** - Short description
 
 ---
