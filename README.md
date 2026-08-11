@@ -6,10 +6,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/piyush-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/piyushkumariiitj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:piyush990841@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/piyushkumariiitj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="tel:+919344384984"><img src="https://img.shields.io/badge/Call%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=piyushkumariiitj&label=Profile%20Views&color=58E6C2&style=for-the-badge" alt="Profile Views"/>
 
@@ -36,11 +35,10 @@ currently_learning: [System Design, Robotics, Advanced ML]
 currently_building: Secure login system (User ID + Password + CAPTCHA) @ Tata Steel
 open_to_collaborate: [Full-stack SaaS, ML-powered apps]
 ask_me_about: [MERN, FastAPI, Docker, JWT/Clerk/Better Auth, ML deployment]
-fun_fact: "let Pac-Man eat my entire contribution graph — see below 👇"
 ```
 
 </td>
-<td width="30%" align="center">
+<td width="80%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180"/>
 
@@ -49,12 +47,6 @@ fun_fact: "let Pac-Man eat my entire contribution graph — see below 👇"
 </table>
 
 <br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/piyushkumariiitj/piyushkumariiitj/main/dist/github-contribution-grid-snake.svg" alt="Pacman contribution graph" width="90%"/>
-</div>
 
 ## 🧊 3D Isometric Contribution Skyline
 
@@ -254,32 +246,6 @@ Predictive analytics on Algerian Forest Fires dataset
 - Deep EDA + feature engineering
 - Regression & classification models
 - Evaluated on RMSE, accuracy, R²
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 [Resume Analyzer](https://github.com/PiYuShKuMaR999/Resume_Analyzerr)
-Real-time AI resume scoring tool
-
-`React` `AI`
-
-- Scores structure, keywords, ATS relevance
-- Built to boost recruiter match rates
-
-</td>
-<td width="50%" valign="top">
-
-### ⛅ [Weather App](https://github.com/piyushkumariiitj/02_Weather) · ✅ [To-Do List](https://github.com/piyushkumariiitj/01_todolist)
-Two of my earliest shipped web apps
-
-`JavaScript` `HTML` `CSS`
-
-- Live weather lookup via API
-- Fully functional task manager
-
-</td>
 </tr>
 </table>
 
@@ -292,7 +258,7 @@ Two of my earliest shipped web apps
 <td width="50%" valign="top">
 
 **🏫 IIITDM Jabalpur**
-B.Tech in Smart Manufacturing · `2024 – Present` · CPI **7.3**
+B.Tech in Smart Manufacturing · `2024 – Present`
 Coursework: Machine Learning · Robotics · CAD/CAM · IoT
 
 </td>
@@ -316,9 +282,8 @@ STEM tutoring, mentoring, donation drives for underprivileged children
 
 <br/>
 
-<a href="https://www.linkedin.com/in/piyush-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/piyushkumariiitj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:piyush990841@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="tel:+919344384984"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 *⭐️ If any of this resonates, drop a star on one of my repos — it genuinely makes my day.*
 
