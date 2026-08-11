@@ -28,15 +28,6 @@
 - ⚡ **Fun fact:** I once let Pac-Man eat my entire GitHub contribution graph (see below 👇)
 
 ---
-
-## 🕹️ Pac-Man Eating My Contributions
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/piyushkumariiitj/piyushkumariiitj/main/dist/github-contribution-grid-snake.svg" alt="Pacman contribution graph" />
-</p>
-
----
-
 ## 💼 Experience
 
 **Software Development Intern — Tata Steel**, Jamshedpur *(Jun 2026 – Present, Hybrid)*
@@ -130,9 +121,8 @@ Conduct STEM tutoring for underprivileged children, organize donation drives and
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-kumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/piyushkumariiitj/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:piyush990841@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+919344384984"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ If any of this resonates, drop a star on one of my repos!</i></p>
