@@ -30,7 +30,7 @@
 name: Piyush Kumar
 role: B.Tech Student — Smart Manufacturing, IIITDM Jabalpur
 current: Software Development Intern @ Tata Steel
-focus: Full-stack SaaS, secure auth systems, applied ML
+focus: Full-stack SaaS, secure auth systems, applied ML, problem solving
 currently_learning: [System Design, Robotics, Advanced ML]
 currently_building: Secure login system (User ID + Password + CAPTCHA) @ Tata Steel
 open_to_collaborate: [Full-stack SaaS, ML-powered apps]
@@ -259,15 +259,8 @@ Predictive analytics on Algerian Forest Fires dataset
 
 **🏫 IIITDM Jabalpur**
 B.Tech in Smart Manufacturing · `2024 – Present`
-Coursework: Machine Learning · Robotics · CAD/CAM · IoT
-
 </td>
 <td width="50%" valign="top">
-
-**🙌 Jagrati Social Initiative** (IIITDMJ)
-Volunteer · `Oct 2024 – Present`
-STEM tutoring, mentoring, donation drives for underprivileged children
-
 </td>
 </tr>
 </table>
