@@ -125,29 +125,14 @@ ask_me_about:    MERN · FastAPI · Docker · JWT/Clerk/Better Auth · ML deploy
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkumariiitj&theme=tokyonight"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=piyushkumariiitj&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=00000000"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=piyushkumariiitj&theme=synthwave&hide_border=true&background=00000000"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumariiitj&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkumariiitj&theme=react-dark&hide_border=true&bg_color=00000000"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=piyushkumariiitj&theme=darkhub&no-frame=true&row=1&column=7"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkumariiitj&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkumariiitj&theme=tokyonight"/>
+</p>
 ## 🌟 Featured Projects
 
 <table width="100%">
